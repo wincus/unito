@@ -1,0 +1,77 @@
+{
+ 
+    "player4" : {
+        "name"        : "player4",
+        "strategy"    : "fixedRolls",
+        "rolls"       : 4
+    },
+
+    "player5" : {
+        "name"        : "player5",
+        "strategy"    : "fixedRolls",
+        "rolls"       : 5
+    },
+
+    "player6" : {
+        "name"        : "player6",
+        "strategy"    : "fixedRolls",
+        "rolls"       : 6
+    },
+
+    "player7" : {
+        "name"        : "player7",
+        "strategy"    : "fixedRolls",
+        "rolls"       : 7
+    },
+
+    "player8" : {
+        "name"        : "player8",
+        "strategy"    : "fixedRolls",
+        "rolls"       : 8
+    },
+
+    "player9" : {
+        "name"        : "player9",
+        "strategy"    : "fixedRolls",
+        "rolls"       : 9
+    },
+
+    "player10" : {
+        "name"        : "player10",
+        "strategy"    : "fixedRolls",
+        "rolls"       : 10
+    },
+
+    "player11" : {
+        "name"        : "player11",
+        "strategy"    : "fixedRolls",
+        "rolls"       : 11
+    },
+
+    "player12" : {
+        "name"        : "player12",
+        "strategy"    : "fixedRolls",
+        "rolls"       : 12
+    }, 
+    
+    "player13" : {
+        "name"        : "player13",
+        "strategy"    : "fixedRolls",
+        "rolls"       : 13
+    }, 
+    "playerRandom5" : {
+        "name"        : "playerRandom5",
+        "strategy"    : "randomRolls",
+        "rolls"       : 5
+    }, 
+    "playerRandom9" : {
+        "name"        : "playerRandom9",
+        "strategy"    : "randomRolls",
+        "rolls"       : 9
+    }, 
+    "playerCap20"     : {
+        "name"        : "PlayerCap20",
+        "strategy"    : "capAt",
+        "cap"         : 20
+    }
+}

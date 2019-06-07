@@ -1,0 +1,42 @@
+{
+ 
+    "playerCap5"     : {
+        "name"        : "PlayerCap5",
+        "strategy"    : "capAt",
+        "cap"         : 5
+    },
+    "playerCap10"     : {
+        "name"        : "PlayerCap10",
+        "strategy"    : "capAt",
+        "cap"         : 10
+    },
+    "playerCap15"     : {
+        "name"        : "PlayerCap15",
+        "strategy"    : "capAt",
+        "cap"         : 15
+    },
+    "playerCap20"     : {
+        "name"        : "PlayerCap20",
+        "strategy"    : "capAt",
+        "cap"         : 20
+    },
+
+    "playerCap25"     : {
+        "name"        : "PlayerCap25",
+        "strategy"    : "capAt",
+        "cap"         : 25
+    },
+
+    "playerCap30"     : {
+        "name"        : "PlayerCap30",
+        "strategy"    : "capAt",
+        "cap"         : 30
+    },
+
+    "playerCap50"     : {
+        "name"        : "PlayerCap50",
+        "strategy"    : "capAt",
+        "cap"         : 50
+    }
+
+}
